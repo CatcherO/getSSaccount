@@ -1,0 +1,7 @@
+*.exe
+*.txt
+gui-config.json
+node_modules
+ss_win_temp
+statistics-config.json
+user-wininet.json
