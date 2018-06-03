@@ -1,4 +1,3 @@
-*.exe
 *.txt
 gui-config.json
 node_modules
