@@ -1,0 +1,10 @@
+{
+ "server": "jpc.isxa.top",
+ "server_port": "15988",
+ "local_address": "127.0.0.1",
+ "local_port": 1080,
+ "password": "isx.yt-77501805",
+ "timeout": 300,
+ "method": "aes-256-cfb",
+ "fast_open": false
+}
